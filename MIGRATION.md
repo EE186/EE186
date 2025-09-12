@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Migration and Upgrading
 layout: default
 ---
@@ -385,9 +385,9 @@ For changes since v0.3.3, the log usually references the merged PR that made the
 
 #### Configuration
 
-- Mermaid support: first-class support for [Mermaid](https://mermaid.js.org/) - a JavaScript-based diagram and charting tool supported by GitHub - has been added to the theme. **This feature is opt-in.** See the new doc subsections in [Configuration]({% link docs/configuration.md %}#mermaid-diagrams) and [Code]({% link docs/ui-components/code/index.md %}#mermaid-diagram-code-blocks) for more.
-- Multiple Google Analytics tags are now supported. PR: [#1029]
-
+<!-- - Mermaid support: first-class support for [Mermaid](https://mermaid.js.org/) - a JavaScript-based diagram and charting tool supported by GitHub - has been added to the theme. **This feature is opt-in.** See the new doc subsections in [Configuration]({% link docs/configuration.md %}#mermaid-diagrams) and [Code]({% link docs/ui-components/code/index.md %}#mermaid-diagram-code-blocks) for more.
+- Multiple Google Analytics tags are now supported. PR: [#1029] -->
+<!-- 
 #### Customization
 
 - all user-facing text is now customizable; previously, several elements (ex search placeholder) were hardwired into the theme. Now, users can blend custom includes and layouts to internationalize their sites.
@@ -422,8 +422,8 @@ For more, see [Custom layouts and includes]({% link docs/customization.md %}#cus
 - Scrolling to show link to selected page. PR: [#639]
 - External nav links are now supported. PR: [#876]
 - Child nav order: sort navigation pages with `child_nav_order`. PR: [#726]
-- Order when mixing different ways of specifying nav order
-
+- Order when mixing different ways of specifying nav order -->
+<!-- 
 #### Search
 
 In addition to customizing the search placeholder, we've also added the ability to provide custom content to the search index. for more, see [Custom content for search index]({% link docs/search.md %}#custom-content-for-search-index). PR: [#1068].
@@ -433,7 +433,7 @@ In addition to customizing the search placeholder, we've also added the ability 
 - Code copying: code blocks now allow users to easily copy their contents. PR: [#945]
 - Blockquote: shows vertical bar on left. PR: [#965]
 - Links wrap. PR: [#905]
-- Callouts: a new component similar to alerts or banners. See [UI Components - Callouts]({% link docs/ui-components/callouts.md %}). PR: [#466]
+- Callouts: a new component similar to alerts or banners. See [UI Components - Callouts]({% link docs/ui-components/callouts.md %}). PR: [#466] -->
 
 ----
 
@@ -530,4 +530,4 @@ In addition to customizing the search placeholder, we've also added the ability 
 [#1095]: https://github.com/just-the-docs/just-the-docs/pull/1095
 
 [#1068]: https://github.com/just-the-docs/just-the-docs/pull/1068
-[#1135]: https://github.com/just-the-docs/just-the-docs/pull/1135
+[#1135]: https://github.com/just-the-docs/just-the-docs/pull/1135 -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: CHANGELOG
 layout: default
 ---
@@ -375,8 +375,8 @@ The theme docs are unversioned, and already reflect the above changes.
 
 Docs changes:
 
-- A [footnote]({% link docs/configuration.md %}#fn:js-disabled) in the configuration docs explains how disabling JavaScript affects the display of navigation links when browsing folded collections.
-- Invalid HTML has been removed from most documentation examples.
+<!-- - A [footnote]({% link docs/configuration.md %}#fn:js-disabled) in the configuration docs explains how disabling JavaScript affects the display of navigation links when browsing folded collections.
+- Invalid HTML has been removed from most documentation examples. -->
 
 ### New Contributors
 
@@ -1879,4 +1879,4 @@ Major updates:
 - Pulls footer to bottom of the page on mobile (not hidden in nav)
 
 Minor updates:
-- Cleans up h1 typography spacing
+- Cleans up h1 typography spacing -->

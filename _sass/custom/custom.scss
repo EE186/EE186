@@ -1,1 +1,48 @@
-// custom SCSS (or CSS) goes here
+// Overrides
+code {
+  font-size: 14px;
+  padding: 0.2em 0.4em;
+  border: none;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+details {
+  @extend .mb-4;
+}
+
+summary {
+  @extend .btn, .btn-outline;
+
+  width: 100%;
+}
+
+a {
+  color: rgb(187, 12, 12); /* Change default link color to red */
+}
+
+.main-content {
+  dl {
+    display: block;
+    grid-template-columns: none;
+  }
+
+  dt {
+    font-weight: 700;
+    text-align: start;
+
+    &::after {
+      content: normal;
+    }
+  }
+
+  dd {
+    font-weight: normal;
+
+    + dt {
+      margin-top: 1em;
+    }
+  }
+}
