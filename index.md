@@ -1,5 +1,5 @@
 ---
-title: home
+title: Home
 layout: default
 nav_order: 1
 description: "Introduction to Embedded Systems"
