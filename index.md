@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: home
 nav_order: 1
 description: "Introduction to Embedded Systems"
 permalink: /
