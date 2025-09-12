@@ -2,7 +2,7 @@
 layout: default
 title: Staff
 description: Course Staff
-nav_order: 5
+nav_order: 6
 ---
 
 # Course Instructor
