@@ -1,9 +1,9 @@
 ---
-title: Home
+title: home
 layout: default
 nav_order: 1
 description: "Introduction to Embedded Systems"
-permalink: /
+permalink: /:path/
 ---
 
 # Introduction to Embedded Systems
