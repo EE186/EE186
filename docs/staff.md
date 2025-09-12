@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Staff
 description: Course Staff
 nav_order: 5

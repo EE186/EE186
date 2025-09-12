@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Lectures
 description: Listing of course modules and topics.
 nav_order: 3
