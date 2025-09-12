@@ -16,7 +16,7 @@
 title: EE 186
 description: Introduction to Embedded Systems
 baseurl: "/EE186" # the subpath of your site, e.g. /blog
-url: "https://ee186.github.io/EE186/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ee186.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #repository: just-the-docs/just-the-docs # for github-metadata
 
 
@@ -27,6 +27,10 @@ search_enabled: false
 heading_anchors: true
 permalink: pretty
 
+plugins:
+  jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
 
 defaults:
   - scope:
