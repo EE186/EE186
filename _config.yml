@@ -28,9 +28,9 @@ heading_anchors: true
 permalink: pretty
 
 plugins:
-  jekyll-remote-theme
-  jekyll-seo-tag
-  jekyll-sitemap
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
 
 defaults:
   - scope:
