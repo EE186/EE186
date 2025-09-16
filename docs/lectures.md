@@ -13,13 +13,6 @@ nav_order: 3
 
 ## Lecture Schedule
 
-Assignment Due
-{: .label .label-red }
-
-Assignment Released
-{: .label .label-blue }
-
-
 | Week        | Topic     | Links | 
 |:-------------|:------------------|:------|
 |1 (Sept. 22rd)| Introduction, overview, and architecture | [slides]() | 
