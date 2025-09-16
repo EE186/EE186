@@ -15,11 +15,15 @@ Please submit assignments by the specified due dates.
 * Lab 4: Light to Sound (Due: TBD)
 
 
+### Submission Guidelines
+
+- All assignments must be submitted electronically on [Gradescope](https://www.gradescope.com/courses/1126821).
+- Include source code and any required deliverables (e.g. video).
+- Late submissions will be penalized according to course policy.
+- Contact the instructor for any questions or clarifications.
+
 ---
 
-## Submission Guidelines
+## Useful Tips
 
-- All assignments must be submitted electronically on [Gradescope](https://www.gradescope.com/courses/1126821)
-- Include source code and any required deliverables (e.g. video)
-- Late submissions will be penalized according to course policy
-- Contact the instructor for any questions or clarifications
+* [Using the Sparkfun USB Logic Analyzer]({% link docs/using-sparkfun-usb-logic-analyzer.md %})
