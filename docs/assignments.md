@@ -9,7 +9,7 @@ nav_order: 4
 
 Please submit assignments by the specified due dates.
 
-* Lab 1: Hello World ([PDF](../assets/labs/lab1.pdf), Due:10/9)
+* Lab 1: Hello World ([PDF](../assets/labs/lab1.pdf), Due: 10/9) 
 * Lab 2: Sorry to Interrupt (Due: 10/16)
 * Lab 3: I²C You (Due: 10/23)
 * Lab 4: Light to Sound (Due: TBD)
