@@ -7,7 +7,7 @@ nav_order: 4
 
 # Assignments
 
-This page contains all course assignments. Please submit assignments by the specified due dates.
+Please submit assignments by the specified due dates.
 
 * Lab 1: Hello World ([PDF](assets/labs/lab1.pdf), Due: October 2nd)
 * Lab 2: Sorry to Interrupt (Due: TBD)
