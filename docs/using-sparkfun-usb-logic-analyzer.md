@@ -2,7 +2,7 @@
 layout: default
 title: Using the Sparkfun USB Logic Analyzer
 description: Guide to capturing and analyzing digital signals with the Sparkfun USB Logic Analyzer.
-nav_order: 10
+nav_exclude: true
 ---
 
 # Using the Sparkfun USB Logic Analyzer
