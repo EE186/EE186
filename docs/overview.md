@@ -14,9 +14,9 @@ This course introduces embedded systems and provides a comprehensive understandi
 
 * **Instructor:** Zerina Kapetanovic (zerina [at] stanford.edu)
 * **Course Assistants:** Chae Young Lee (chae [at] stanford.edu), Belle Angkanapiwat (yanisa [at] stanford.edu)
-* **Lectures:** Tue, Thu 12:00PM - 1:20PM, Hewlett Teaching Center Room 101
+* **Lectures:** Tue Thu 12:00PM - 1:20PM, Hewlett Teaching Center Room 101
 * **Section:** TBD
-* **Lab and Office Hours:** TBD
+* **Office Hours:** Mon Thu 10-11AM (Chaeyoung), Tue Wed 10-11AM (Belle), Packard 058
 
 ## Grading
 * 40% - Labs
