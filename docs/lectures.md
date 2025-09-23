@@ -23,10 +23,10 @@ nav_order: 3
 | 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides]() | 
 | 4 (Oct. 14th) | UART, SPI, I2C | [slides]() |
 | 4 (Oct. 16th) | Project Selection | [slides]() | 
-| 5 (Oct. 21st) | Midterm Rreview | [slides]() | 
-| 5 (Oct. 23rd) | Analog Signals | [slides]() | 
-| 5 (Oct. 28rd) | ADC/DACs | [slides]() | 
-| 6 (Oct. 30th) |Midterm | [slides]() | 
+| 5 (Oct. 21st) | Analog Signals | [slides]() | 
+| 5 (Oct. 23rd) | Midterm Rreview | [slides]() | 
+| 5 (Oct. 28rd) | Midterm | [slides]() | 
+| 6 (Oct. 30th) |ADC/DACs | [slides]() | 
 | 6 (Nov. 4th) | No Class. Democracy Day.  |  | 
 | 7 (Nov. 6th) | Wireless Communication | [slides]() | 
 | 7 (Nov. 11th) | Energy Harvesting | [slides]() | 
