@@ -22,3 +22,16 @@ This course focuses on the key principles and practices of modern embedded syste
 
 
 
+
+<footer>
+<p style="float:left; width: 20%;">
+This course utilizes materials from University of Michigan's EECS 373 course
+</p>
+</footer>
+
+
+
+
+
+
+
