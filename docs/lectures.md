@@ -15,7 +15,7 @@ nav_order: 3
 
 | Week        | Topic     | Links | 
 |:-------------|:------------------|:------|
-|1 (Sept. 22rd)| Introduction, overview, and architecture | [slides]() | 
+|1 (Sept. 22rd)| Introduction, overview, and architecture | [slides](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing) | 
 |1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | 
 |2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides]() |
 | 2 (Oct. 2nd) | Interrupts | [slides]() | 
@@ -29,7 +29,7 @@ nav_order: 3
 | 6 (Oct. 30th) |Midterm | [slides]() | 
 | 6 (Nov. 4th) | No Class. Democracy Day.  |  | 
 | 7 (Nov. 6th) | Wireless Communication | [slides]() | 
-| 7 (Nov. 11th) | Wnergy Harvesting | [slides]() | 
+| 7 (Nov. 11th) | Energy Harvesting | [slides]() | 
 | 8 (Nov. 13th) | Printed Circuit Board Design | [slides]() | 
 | 8 (Nov. 18th) | Special Topics | [slides]() | 
 | 9 (Nov. 20th) | No Class. Work on final projects | | 
