@@ -15,7 +15,7 @@ nav_order: 3
 
 | Week        | Topic     | Links | 
 |:-------------|:------------------|:------|
-|1 (Sept. 22rd)| Introduction, overview, and architecture | [slides](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing) | 
+|1 (Sept. 22rd)| Introduction, overview, and architecture | [slides (redacted)](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing) [slides (filled in)](https://drive.google.com/drive/folders/1le9KTvKIopUiY8Z-BkVywZfzsaWiXsNN?usp=sharing)| 
 |1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | 
 |2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides]() |
 | 2 (Oct. 2nd) | Interrupts | [slides]() | 
