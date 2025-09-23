@@ -25,16 +25,16 @@ nav_order: 3
 | 4 (Oct. 16th) | Project Selection | [slides]() | 
 | 5 (Oct. 21st) | Analog Signals | [slides]() | 
 | 5 (Oct. 23rd) | Midterm Rreview | [slides]() | 
-| 5 (Oct. 28rd) | Midterm | [slides]() | 
+| 6 (Oct. 28rd) | Midterm | [slides]() | 
 | 6 (Oct. 30th) |ADC/DACs | [slides]() | 
-| 6 (Nov. 4th) | No Class. Democracy Day.  |  | 
+| 7 (Nov. 4th) | No Class. Democracy Day.  |  | 
 | 7 (Nov. 6th) | Wireless Communication | [slides]() | 
-| 7 (Nov. 11th) | Energy Harvesting | [slides]() | 
+| 8 (Nov. 11th) | Energy Harvesting | [slides]() | 
 | 8 (Nov. 13th) | Printed Circuit Board Design | [slides]() | 
-| 8 (Nov. 18th) | Special Topics | [slides]() | 
+| 9 (Nov. 18th) | Special Topics | [slides]() | 
 | 9 (Nov. 20th) | No Class. Work on final projects | | 
-| 9 (Nov. 25th) | No Class. Thanksgiving Break | |
+| 10 (Nov. 25th) | No Class. Thanksgiving Break | |
 | 10 (Nov. 27th) | No Class. Thanksgiving Break | |
-| 10 (Dec. 2nd) | No Class. Work on final projects |  |
+| 11 (Dec. 2nd) | No Class. Work on final projects |  |
 | 11 (Dec. 4th) |Final Project Demos |  | 
-| 11 (Dec. 9th) | Final Project Demos | | 
+| 12 (Dec. 9th) | Final Project Demos | | 
