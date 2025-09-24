@@ -15,7 +15,6 @@ nav_order: 5
 [AMBA Advanced Peripheral Bus (APB) Protocol Specification](https://developer.arm.com/documentation/ihi0024/latest/)
 
 
-
 # STM32
 [STM32 Reference Manual](https://www.st.com/resource/en/reference_manual/dm00310109-stm32l4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 
@@ -38,3 +37,6 @@ EE 186 does not have an official textbook, but the following are very useful ref
 * The Definitive Guide to ARM CORTEX-M3 and CORTEX-M4 Processors. Joseph Yiu (Third Edition)
 * Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C. Yifeng Zhu (Third Edition)
 * Introduction to ARM Cortex-M Microntrollers. Jonathan W. Valvano (Fifth Edition)
+
+# Quick Links
+[Gradescope](https://www.gradescope.com/courses/1126821){: .btn .btn-blue } [Piazza](https://piazza.com/stanford/fall2025/ee186){: .btn .btn-green } [Mailing List Sign-up](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025){: .btn .btn-purple}

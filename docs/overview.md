@@ -17,7 +17,7 @@ This course introduces embedded systems and provides a comprehensive understandi
 * **Lectures:** Tue Thu 12:00PM - 1:20PM, Hewlett Teaching Center Room 101
 * **Section:** TBD
 * **Office Hours:** Mon Thu 10-11AM (Chaeyoung), Tue Wed 10-11AM (Belle), Packard 058
-* [**Mailing List Sign Up:**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
+* [**Mailing List Sign Up**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
 
 
 ## Grading
