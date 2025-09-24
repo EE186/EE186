@@ -27,3 +27,7 @@ Please submit assignments by the specified due dates.
 ## Notes
 
 * You will be using the [Sparkfun USB logic analyzer](https://www.sparkfun.com/usb-logic-analyzer-24mhz-8-channel.html). To view the results, we recommended the opensource program [PulseView](https://sigrok.org/wiki/PulseView). Note that an official version for Apple Silicon is not available. If you are using an Apple Silicon Mac, please install [PulseView 0.4.2](../assets/labs/PulseView-0.4.2.dmg).
+
+## Quick Links
+[Gradescope](https://www.gradescope.com/courses/1126821){: .btn .btn-blue } [Piazza](https://piazza.com/stanford/fall2025/ee186){: .btn .btn-green }
+

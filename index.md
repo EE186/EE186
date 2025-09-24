@@ -18,7 +18,7 @@ This course focuses on the key principles and practices of modern embedded syste
 
 ## Quick Links
 
-[Gradescope](https://www.gradescope.com/courses/1126821){: .btn .btn-blue } [Piazza](https://piazza.com/stanford/fall2025/ee186){: .btn .btn-green }
+[Gradescope](https://www.gradescope.com/courses/1126821){: .btn .btn-blue } [Piazza](https://piazza.com/stanford/fall2025/ee186){: .btn .btn-green } [Mailing List Sign-up](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025){: .btn .btn-red }
 
 
 

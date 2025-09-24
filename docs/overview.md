@@ -21,7 +21,9 @@ This course introduces embedded systems and provides a comprehensive understandi
 
 
 ## Grading
-* 40% - Labs
+* 40% - Lab Work
+   10% - Pre Lab
+   30% - Lab
 * 15% - Midterm
 * 40% - Final Project
 * 5% - Final Project Presentation 
