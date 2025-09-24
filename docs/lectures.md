@@ -16,20 +16,20 @@ nav_order: 3
 | Week        | Topic     | Links | Assignments
 |:-------------|:------------------|:------|:---------|
 |1 (Sept. 22rd)| Introduction, overview, and architecture | [slides (redacted)](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1CCivnH5vN_Jg_0NargfIiPeoKDIF5jPA/view?usp=sharing)| |
-|1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | Pre-lab 1 Released |
+|1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | Lab 1 Released |
 |2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides]() | Pre-lab 1 Due|
-| 2 (Oct. 2nd) | Interrupts | [slides]() | |
-| 3 (Oct. 7th) | Interrupts | [slides]() | |
-| 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides]() | |
-| 4 (Oct. 14th) | UART, SPI, I2C | [slides]() ||
-| 4 (Oct. 16th) | Project Selection | [slides]() | |
-| 5 (Oct. 21st) | Analog Signals | [slides]() | |
+| 2 (Oct. 2nd) | Interrupts | [slides]() | Lab 2 Released |
+| 3 (Oct. 7th) | Interrupts | [slides]() | Lab 1 Due, Pre-lab 2 Due |
+| 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides]() | Lab 3 Released |
+| 4 (Oct. 14th) | UART, SPI, I2C | [slides]() |Lab 2 Due, Pre-lab 3 Due|
+| 4 (Oct. 16th) | Project Selection | [slides]() |  |
+| 5 (Oct. 21st) | Analog Signals | [slides]() | Lab 3 Due |
 | 5 (Oct. 23rd) | Midterm Rreview | [slides]() | |
 | 6 (Oct. 28rd) | Midterm | [slides]() | |
-| 6 (Oct. 30th) |ADC/DACs | [slides]() | |
-| 7 (Nov. 4th) | No Class. Democracy Day.  |  | |
+| 6 (Oct. 30th) |ADC/DACs | [slides]() | Lab 4 Released |
+| 7 (Nov. 4th) | No Class. Democracy Day.  |  | Pre-lab 4 Due |
 | 7 (Nov. 6th) | Wireless Communication | [slides]() | |
-| 8 (Nov. 11th) | Energy Harvesting | [slides]() | |
+| 8 (Nov. 11th) | Energy Harvesting | [slides]() | Lab 4 Due |
 | 8 (Nov. 13th) | Printed Circuit Board Design | [slides]() | |
 | 9 (Nov. 18th) | Special Topics | [slides]() | |
 | 9 (Nov. 20th) | No Class. Work on final projects | | |
