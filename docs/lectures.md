@@ -16,8 +16,8 @@ nav_order: 3
 | Week        | Topic     | Links | Assignments
 |:-------------|:------------------|:------|:---------|
 |1 (Sept. 22rd)| Introduction, overview, and architecture | [slides (redacted)](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1CCivnH5vN_Jg_0NargfIiPeoKDIF5jPA/view?usp=sharing)| |
-|1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | |
-|2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides]() ||
+|1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides]() | Pre-lab 1 Released |
+|2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides]() | Pre-lab 1 Due|
 | 2 (Oct. 2nd) | Interrupts | [slides]() | |
 | 3 (Oct. 7th) | Interrupts | [slides]() | |
 | 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides]() | |
