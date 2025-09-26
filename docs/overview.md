@@ -21,7 +21,7 @@ This course introduces embedded systems and provides a comprehensive understandi
 - **Office Hours:** 
    - Chaeyoung, Mon Thu 10-11AM , Packard 058
    - Belle, Tue Wed 10-11AM, Packard 058
-   - Zerina, TBD, Packard 266
+   - Zerina, Thu 1:30-2:30PM, Packard 266
 *- [**Mailing List Sign Up**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
 
 
