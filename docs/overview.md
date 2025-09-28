@@ -17,12 +17,12 @@ This course introduces embedded systems and provides a comprehensive understandi
    - Chae Young Lee (chae [at] stanford.edu)
    - Belle Angkanapiwat (yanisa [at] stanford.edu)
 - **Lectures:** Tue Thu 12:00PM - 1:20PM, Hewlett Teaching Center Room 101
-- **Section:** Wednesday, Time TBD, Packard 058
+- **Section:** Wednesday, 12-1PM, Packard 058
 - **Office Hours:** 
    - Chaeyoung, Mon Thu 10-11AM , Packard 058
    - Belle, Tue Wed 10-11AM, Packard 058
    - Zerina, Thu 1:30-2:30PM, Packard 266
-*- [**Mailing List Sign Up**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
+- [**Mailing List Sign Up**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
 
 
 ## Grading
