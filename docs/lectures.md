@@ -18,20 +18,20 @@ nav_order: 3
 |1 (Sept. 22rd)| Introduction, overview, and architecture | [slides (redacted)](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1CCivnH5vN_Jg_0NargfIiPeoKDIF5jPA/view?usp=sharing)| |
 |1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides (redacted)](https://drive.google.com/file/d/1Ra5nZPVK-knWlB0Z8xeAOWqAkAuSN5mX/view?usp=share_link), [slides(filled in)](https://drive.google.com/file/d/11Oytc_0EF_h-Jwh8fw-xVSTHHP7sKmPt/view?usp=sharing) | Lab 1 Released |
 |2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides (redacted)](https://drive.google.com/file/d/1-XUZPZs3cOGjTE9mJ8Dn-Dp9Cc5nAnQU/view?usp=sharing) | Pre-lab 1 Due|
-| 2 (Oct. 2nd) | Interrupts | [slides]() | Lab 2 Released |
-| 3 (Oct. 7th) | Interrupts | [slides]() | Lab 1 Due, Pre-lab 2 Due |
-| 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides]() | Lab 3 Released |
-| 4 (Oct. 14th) | UART, SPI, I2C | [slides]() |Lab 2 Due, Pre-lab 3 Due|
-| 4 (Oct. 16th) | Project Selection | [slides]() |  |
-| 5 (Oct. 21st) | Analog Signals | [slides]() | Lab 3 Due |
-| 5 (Oct. 23rd) | Midterm Rreview | [slides]() | |
-| 6 (Oct. 28rd) | Midterm | [slides]() | |
-| 6 (Oct. 30th) |ADC/DACs | [slides]() | Lab 4 Released |
+| 2 (Oct. 2nd) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/16IBiq3FwiqUKKDPyUejY65IuOb9JVX1Z/view?usp=share_link) | Lab 2 Released |
+| 3 (Oct. 7th) | Interrupts |  | Lab 1 Due, Pre-lab 2 Due |
+| 3 (Oct. 9th) | Timers, Pulse Width Modulation | | Lab 3 Released |
+| 4 (Oct. 14th) | UART, SPI, I2C |  |Lab 2 Due, Pre-lab 3 Due|
+| 4 (Oct. 16th) | Project Selection |  |  |
+| 5 (Oct. 21st) | Analog Signals |  | Lab 3 Due |
+| 5 (Oct. 23rd) | Midterm Rreview |  | |
+| 6 (Oct. 28rd) | Midterm |  | |
+| 6 (Oct. 30th) |ADC/DACs | | Lab 4 Released |
 | 7 (Nov. 4th) | No Class. Democracy Day.  |  | Pre-lab 4 Due |
-| 7 (Nov. 6th) | Wireless Communication | [slides]() | |
-| 8 (Nov. 11th) | Energy Harvesting | [slides]() | Lab 4 Due |
-| 8 (Nov. 13th) | Printed Circuit Board Design | [slides]() | |
-| 9 (Nov. 18th) | Special Topics | [slides]() | |
+| 7 (Nov. 6th) | Wireless Communication |  | |
+| 8 (Nov. 11th) | Energy Harvesting |  | Lab 4 Due |
+| 8 (Nov. 13th) | Printed Circuit Board Design |  | |
+| 9 (Nov. 18th) | Special Topics | | |
 | 9 (Nov. 20th) | No Class. Work on final projects | | |
 | 10 (Nov. 25th) | No Class. Thanksgiving Break | | |
 | 10 (Nov. 27th) | No Class. Thanksgiving Break | | |
