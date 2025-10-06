@@ -38,3 +38,7 @@ nav_order: 3
 | 11 (Dec. 2nd) | No Class. Work on final projects | | |
 | 11 (Dec. 4th) |Final Project Demos |  |  |
 | 12 (Dec. 9th) | Final Project Demos | | |
+
+### Assignment Calendar
+<img width="1087" height="432" alt="image" src="https://github.com/user-attachments/assets/75c8684c-1981-4296-aa0b-17d90829682a" />
+
