@@ -18,8 +18,8 @@ nav_order: 3
 |1 (Sept. 22nd)| Introduction, overview, and architecture | [slides (redacted)](https://drive.google.com/file/d/19lYF-ZQpmhn5F8tuksfs7WOAjz8k8DVc/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1CCivnH5vN_Jg_0NargfIiPeoKDIF5jPA/view?usp=sharing)| |
 |1 (Sept. 25th)| Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [slides (redacted)](https://drive.google.com/file/d/1Ra5nZPVK-knWlB0Z8xeAOWqAkAuSN5mX/view?usp=share_link), [slides(filled in)](https://drive.google.com/file/d/11Oytc_0EF_h-Jwh8fw-xVSTHHP7sKmPt/view?usp=sharing) |  |
 |2 (Sept. 30th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO | [slides (redacted)](https://drive.google.com/file/d/1-XUZPZs3cOGjTE9mJ8Dn-Dp9Cc5nAnQU/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1BDRVs3iu4c8StpfDP8AbfjLF95PFyyPW/view?usp=share_link), [section recording](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95fee67f-422a-4813-8cd0-b369016447bd)| Pre-lab 1 Due|
-| 2 (Oct. 2nd) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/16IBiq3FwiqUKKDPyUejY65IuOb9JVX1Z/view?usp=share_link) | |
-| 3 (Oct. 7th) | Interrupts |  | Lab 1 Due |
+| 2 (Oct. 2nd) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/1EBQJuYEucgD651a3sB11hom61qb1vgsz/view?usp=sharing) | |
+| 3 (Oct. 7th) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/1EBQJuYEucgD651a3sB11hom61qb1vgsz/view?usp=sharing)  | Lab 1 Due |
 | 3 (Oct. 9th) | Timers, Pulse Width Modulation | | Pre-lab 2 Due |
 | 4 (Oct. 14th) | UART, SPI, I2C |  |Lab 2 Due|
 | 4 (Oct. 16th) | Project Selection |  | Pre-lab 3 Due |
