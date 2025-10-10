@@ -32,6 +32,8 @@ This course introduces embedded systems and provides a comprehensive understandi
 - 40% - Final Project
 - 5% - Final Project Presentation
 
+Students may skip one pre-lab assignment, or, if they complete all pre-lab assignments, the lowest grade will be dropped. 
+
 ## Course Policies
 
 ## Assignment Submissions and Late Policy
