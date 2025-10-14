@@ -21,7 +21,7 @@ nav_order: 3
 | 2 (Oct. 2nd) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/1EBQJuYEucgD651a3sB11hom61qb1vgsz/view?usp=sharing) | |
 | 3 (Oct. 7th) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/1EBQJuYEucgD651a3sB11hom61qb1vgsz/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1yODDkeo8WIrFzrudK7D9i8UvR5IrcNqU/view?usp=sharing) | Lab 1 Due |
 | 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides (redacted)](https://drive.google.com/file/d/1R1KI0XEleYSfVGs-JXWQJ5Q2ZvD8GohC/view?usp=share_link) | Pre-lab 2 Due |
-| 4 (Oct. 14th) | UART, SPI, I2C |  |Lab 2 Due|
+| 4 (Oct. 14th) | UART, SPI, I2C |  [slides(redacted)](https://drive.google.com/file/d/1WWzBeyCjZyWoSGmvFJ7WEXsGuFxvCxkc/view?usp=share_link) |Lab 2 Due|
 | 4 (Oct. 16th) | Project Selection |  | Pre-lab 3 Due |
 | 5 (Oct. 21st) | Analog Signals |  | Lab 3 Due |
 | 5 (Oct. 23rd) | Midterm Rreview |  | |
