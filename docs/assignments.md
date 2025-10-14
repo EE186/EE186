@@ -13,6 +13,9 @@ Please submit assignments by the specified due dates.
 * Lab 3: I²C You (Due: 10/21)
 * Lab 4: Light to Sound (Due: 11/11)
 
+## Final Project
+Final project guidlines can be found [here](https://drive.google.com/file/d/1uen-8ecDtIpc3TUf2fZx3TBiMDUkudGw/view?usp=share_link)
+
 ### Submission Guidelines
 
 - All assignments must be submitted electronically on [Gradescope](https://www.gradescope.com/courses/1126821).
