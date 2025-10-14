@@ -14,7 +14,8 @@ Please submit assignments by the specified due dates.
 * Lab 4: Light to Sound (Due: 11/11)
 
 ## Final Project
-Final project guidlines can be found [here](https://drive.google.com/file/d/1uen-8ecDtIpc3TUf2fZx3TBiMDUkudGw/view?usp=share_link)
+
+Final project guidlines can be found [here](https://drive.google.com/file/d/1wBaLYn8BMF3wGPXOxcMvuQ-krCHotjaK/view?usp=sharing)
 
 ### Submission Guidelines
 
