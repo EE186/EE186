@@ -10,7 +10,7 @@ nav_order: 3
 * Lectures are Tuesdays and Thursdays from 12:00PM - 1:20PM
 * Slides for will be available the day before each lecture
 
-[Review Slides](https://drive.google.com/file/d/1obUKkJRf_AK6flYfKXCyf2lGLD6dtJCq/view?usp=share_link)
+[Review Slides](https://drive.google.com/file/d/1UGIYRilV5YuoH-0bac9RGTTUkkJuw_Pp/view?usp=sharing)
 
 # Lecture Schedule and Assignment Due Dates
 
