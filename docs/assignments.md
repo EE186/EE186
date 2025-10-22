@@ -24,10 +24,10 @@ Final project guidlines can be found [here](https://drive.google.com/file/d/1wBa
 - Late submissions will be penalized according to course policy.
 - Contact the instructor for any questions or clarifications.
 
----
-
 ## Midterm Exam
 The midterm is on October 28th from 12-1:20PM in-person during class time. Students are allowed to bring one sheet of notes. 
+
+---
 
 ## Notes
 
