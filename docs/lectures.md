@@ -23,11 +23,11 @@ nav_order: 3
 | 3 (Oct. 7th) | Interrupts | [slides (redacted)](https://drive.google.com/file/d/1EBQJuYEucgD651a3sB11hom61qb1vgsz/view?usp=sharing), [slides (filled in)](https://drive.google.com/file/d/1yODDkeo8WIrFzrudK7D9i8UvR5IrcNqU/view?usp=sharing) | Lab 1 Due |
 | 3 (Oct. 9th) | Timers, Pulse Width Modulation | [slides (redacted)](https://drive.google.com/file/d/1R1KI0XEleYSfVGs-JXWQJ5Q2ZvD8GohC/view?usp=share_link) [slides (filled in)](https://drive.google.com/file/d/1qH6-ZKV7oJAiFGhdYnhg8-wrBmH6MjNK/view?usp=share_link)| Pre-lab 2 Due |
 | 4 (Oct. 14th) | UART, SPI, I2C |  [slides(redacted)](https://drive.google.com/file/d/1WWzBeyCjZyWoSGmvFJ7WEXsGuFxvCxkc/view?usp=share_link) [slides(filled in)](https://drive.google.com/file/d/1obUKkJRf_AK6flYfKXCyf2lGLD6dtJCq/view?usp=share_link) |Lab 2 Due|
-| 4 (Oct. 16th) | Project Selection | [slides](https://drive.google.com/file/d/1NXhSGzNoqzXNOZCJU8sPIQMrZStxvhRA/view?usp=share_link) | Pre-lab 3 Due |
+| 4 (Oct. 16th) | Project Selection | [slides](https://drive.google.com/file/d/1W9E-anVpWDznoDSYl5_mrmuMbChKvB7L/view?usp=share_link) | Pre-lab 3 Due |
 | 5 (Oct. 21st) | Analog Signals |  [slides(redacted)](https://drive.google.com/file/d/1abtVr2CQLMd7qszA8mrdwSc5icIlDuKt/view?usp=share_link) [slides (filled in)](https://drive.google.com/file/d/1iRmDcJssBgQ8MdssOt6q12MhdrXvq2yb/view?usp=share_link) |  |
 | 5 (Oct. 23rd) | Midterm Review | [slides](https://drive.google.com/file/d/1ZZhYsGIA1hWZO9j2GHYIXWKh2UBEIDTb/view?usp=sharing) | Lab 3 Due |
 | 6 (Oct. 28th) | Midterm |  | |
-| 6 (Oct. 30th) |ADC/DACs | | Pre-lab 4 Due |
+| 6 (Oct. 30th) | DACs / Wireless Communication| [slides](https://drive.google.com/file/d/1z6CIJ0HNRxsuNJU5k9F1WKQs9RwWq1Yc/view?usp=share_link)| Pre-lab 4 Due |
 | 7 (Nov. 4th) | No Class. Democracy Day.  |  | Lab 4 Due |
 | 7 (Nov. 6th) | Wireless Communication |  | |
 | 8 (Nov. 11th) | Energy Harvesting |  |  |
