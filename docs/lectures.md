@@ -32,7 +32,7 @@ nav_order: 3
 | 7 (Nov. 6th) | No Class (Zerina sick) |  | |
 | 8 (Nov. 11th) | Midterm Solutions Review, System Timer, Direct Memory Access| [slides (redacted)](https://drive.google.com/file/d/1OftwuYvEvScKXH4VPCs0Flabqr9wkAn0/view?usp=sharing) |  |
 | 8 (Nov. 13th) | Printed Circuit Board (PCB) Design, Final Project Discussions | | |
-| 9 (Nov. 18th) | Special Topics | | |
+| 9 (Nov. 18th) | Special Topics: Wireless Embedded Systems Research  | | |
 | 9 (Nov. 20th) | No Class. Work on final projects | | |
 | 10 (Nov. 25th) | No Class. Thanksgiving Break | | |
 | 10 (Nov. 27th) | No Class. Thanksgiving Break | | |
