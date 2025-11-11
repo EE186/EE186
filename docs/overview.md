@@ -18,7 +18,7 @@ This course introduces embedded systems and provides a comprehensive understandi
 - **Lectures:** Tue Thu 12:00PM - 1:20PM, Gates B12
 - **Section:** Wednesday, 7-8PM, Zoom (link is on announcement)
 - **Office Hours:**
-  - Chaeyoung: Mon 2-3PM Thu 3-4PM, Packard 058
+  - Chaeyoung: Mon 2-3PM Thu 3-4PM, CoDa E460
   - Belle: Tue Wed 10-11AM, Packard 058
   - Zerina: Thu 1:30-2:30PM, Packard 266
   - Pete: Fri 10AM-12PM, Packard 058
