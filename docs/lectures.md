@@ -37,8 +37,8 @@ nav_order: 3
 | 10 (Nov. 25th) | No Class. Thanksgiving Break | | |
 | 10 (Nov. 27th) | No Class. Thanksgiving Break | | |
 | 11 (Dec. 2nd) | No Class. Work on final projects | | |
-| 11 (Dec. 4th) |No Class. Work on final projects |  |  |
-| 12 (Dec. 9th) | Final Project Demos | | |
+| 11 (Dec. 4th) | Final Project Presentations |  |  |
+
 
 
 ### Assignment Calendar
