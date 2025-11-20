@@ -31,8 +31,8 @@ nav_order: 3
 | 7 (Nov. 4th) | No Class. Democracy Day.  |  | Lab 4 Due |
 | 7 (Nov. 6th) | No Class (Zerina sick) |  | |
 | 8 (Nov. 11th) | Midterm Solutions Review, System Timer, Direct Memory Access| [slides (redacted)](https://drive.google.com/file/d/1OftwuYvEvScKXH4VPCs0Flabqr9wkAn0/view?usp=sharing) |  |
-| 8 (Nov. 13th) | Printed Circuit Board (PCB) Design, Final Project Discussions | | |
-| 9 (Nov. 18th) | Special Topics: Wireless Embedded Systems Research  | | |
+| 8 (Nov. 13th) | Printed Circuit Board (PCB) Design, Final Project Discussions | [slides](https://drive.google.com/file/d/194tDqUo5RLqvXdycUlNeJ4Q4UcponujW/view?usp=share_link) | |
+| 9 (Nov. 18th) | Special Topics: Wireless Embedded Systems Research  | [slides](https://drive.google.com/file/d/1b1JsQ_yAXZzXMVqbJx2kqOn9OAKkvQTm/view?usp=sharing) | |
 | 9 (Nov. 20th) | No Class. Work on final projects | | |
 | 10 (Nov. 25th) | No Class. Thanksgiving Break | | |
 | 10 (Nov. 27th) | No Class. Thanksgiving Break | | |

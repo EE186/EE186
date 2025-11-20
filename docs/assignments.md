@@ -16,6 +16,11 @@ Please submit assignments by the specified due dates.
 ## Final Project
 
 Final project guidlines can be found [here](https://drive.google.com/file/d/1wBaLYn8BMF3wGPXOxcMvuQ-krCHotjaK/view?usp=sharing)
+Final project submission guidlines can be found [here](https://drive.google.com/file/d/1IZEAVPQPV3bF2tPxdVL_d5Ej-ZkOYbPx/view?usp=share_link)
+
+**Demo Sign-up sheet** can be found [here](https://docs.google.com/spreadsheets/d/1t80hJtyFw6ige7kXk1EvJas_SxSpc9jxDPiQTfZrN1M/edit?usp=sharing)
+
+**Presentation Sign-up sheet** can be found [here](https://docs.google.com/spreadsheets/d/1ZLN6f4hfZDyUf2xB69XjBXG-rG_t5TyMeTqcSkfnHko/edit?usp=sharing)
 
 ### Submission Guidelines
 
