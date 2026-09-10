@@ -13,22 +13,22 @@ This course introduces embedded systems and provides a comprehensive understandi
 
 - **Instructor:** Zerina Kapetanovic (zerina [at] stanford.edu)
 - **Course Assistants:**
-  - Chae Young Lee (chae [at] stanford.edu)
+
   - Belle Angkanapiwat (yanisa [at] stanford.edu)
-- **Lectures:** Tue Thu 12:00PM - 1:20PM, Gates B12
-- **Section:** Wednesday, 7-8PM, Zoom (link is on announcement)
+  - Lan Mei (lanmei [at] stanford.edu)
+- **Lectures:** Tue Thu 12:00PM - 1:20PM, 540-108
+- **Section:** TBD
 - **Office Hours:**
-  - Chaeyoung: Mon 2-3PM Thu 3-4PM, CoDa E460
-  - Belle: Tue Wed 10-11AM, Packard 058
-  - Zerina: Thu 1:30-2:30PM, Packard 266
-  - Pete: Fri 10AM-12PM, Packard 058
-- [**Mailing List Sign Up**](https://mailman.stanford.edu/mailman/listinfo/ee186_fall2025)
+
+  - Zerina: TBD
+  - Belle: TBD
+  - Lan: TBD
+  - Pete: TBD
 
 ## Grading
 
-- 40% - Lab Work
-  - 10% - Pre Lab
-  - 30% - Lab
+- 10% - Homework
+- 30% - Lab
 - 15% - Midterm
 - 40% - Final Project
 - 5% - Final Project Presentation
@@ -46,6 +46,8 @@ Students must submitted all assignments through Gradescope by the posted deadlin
 * <72 hours: - 60%
 * <72 hours: not accepted
 
+If students have any concerns about the deadlines due to extenuating circumstances, please reach out to course staff **before the deadline**.
+
 ## Joint Work Policy
 
 ### Labs
@@ -56,15 +58,11 @@ Students must submitted all assignments through Gradescope by the posted deadlin
 
 ### Exams
 
-* You may study together of exams
+* You may study together for exams
 * Each student must complete the exam solely by their own efforts
 * Questions during exams can be asked only of the course instructors
 * Exams must be completed within the specified time.
 * One double-sided sheet of notes is allowed
-
-### Generative AI Tools Policy
-
-The use of or consultation with generative AI (e.g. Chat GPT) is not permitted.
 
 # Access and Accommodations
 
