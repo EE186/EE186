@@ -16,6 +16,7 @@ This course introduces embedded systems and provides a comprehensive understandi
 
   - Belle Angkanapiwat (yanisa [at] stanford.edu)
   - Lan Mei (lanmei [at] stanford.edu)
+- **Technology Resource:** Pete Mahowald (pmahowld [at] stanford.edu)
 - **Lectures:** Tue Thu 12:00PM - 1:20PM, 540-108
 - **Section:** TBD
 - **Office Hours:**

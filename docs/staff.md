@@ -12,24 +12,34 @@ nav_order: 6
 <div>Department of Electrical Engineering</div> 
 <div>zerina/at/stanford/.edu</div>
 
+</div> </div>
+ <br>
+
 # Course Assistants
 
 <br>
-<div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/chaeyoung.jpg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Chaeyoung Lee</div> 
-<div>Graduate Student</div> 
-<div>Department of Computer Science</div> 
-<div>chae/at/stanford/.edu</div>
-
-<br>
-
 <div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/belle.jpeg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Belle Angkanapiwat</div> 
 <div>Graduate Student</div> 
 <div>Department of Electrical Engineering</div> 
 <div>yanisa/at/stanford/.edu</div>
 
+</div> </div>
+<br>
 
-
-<div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/lan.jpeg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Lan Mei</div> 
+<div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/lan.jpg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Lan Mei</div> 
 <div>Graduate Student</div> 
 <div>Department of Electrical Engineering</div> 
 <div>lanmei/at/stanford/.edu</div>
+
+</div> </div>
+<br>
+
+# Technology Resource
+
+<br>
+<div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/pete.jpeg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Pete Mahowald</div> 
+<div>Adjunct Lecturer</div> 
+<div>Department of Electrical Engineering</div> 
+<div>pmahowld/at/stanford/.edu</div>
+
+</div> </div>
