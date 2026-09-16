@@ -28,13 +28,13 @@ This course introduces embedded systems and provides a comprehensive understandi
 
 ## Grading
 
-- 10% - Homework
+- 5% - Homework
 - 30% - Lab
-- 15% - Midterm
+- 20% - Midterm
 - 40% - Final Project
 - 5% - Final Project Presentation
 
-Students may skip one pre-lab assignment, or, if they complete all pre-lab assignments, the lowest grade will be dropped. 
+Students may skip one homework assignment, or, if they complete all homework assignments, the lowest grade will be dropped. 
 
 ## Course Policies
 
@@ -53,7 +53,7 @@ If students have any concerns about the deadlines due to extenuating circumstanc
 
 ### Labs
 
-* Pre-labs can be completed in groups
+* Homework can be completed in groups
 * Labs are to be completed individually. All submitted lab work must be from the students own efforts, and not any other sources.
 * You may discuss labs at a conceptual level, but developing a lab with others is not allowed. It is acceptable to discuss lectures or readings, talk about general approachs, and help debugging.
 

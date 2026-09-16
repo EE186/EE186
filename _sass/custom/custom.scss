@@ -46,3 +46,38 @@ a {
     }
   }
 }
+
+// The assignment calendar needs 7 columns, but the default `min-width: 7.5rem` per cell
+// (tables.scss) makes that 840px -- wider than the 50rem content area, so the last column
+// overflows. Size these cells to their content instead.
+.compact-table {
+  table-layout: fixed;
+
+  th,
+  td {
+    min-width: 0;
+    padding: $sp-1 $sp-2;
+  }
+
+  // Column widths total 100%: week label, Release/Due, then M T W Th F. Under
+  // `table-layout: fixed` the first row's widths define the columns. Tue and Thu carry
+  // every entry so they get identical widths; the always-empty M/W/F columns stay narrow.
+  th:nth-child(1) {
+    width: 17%;
+  }
+
+  th:nth-child(2) {
+    width: 13%;
+  }
+
+  th:nth-child(3),
+  th:nth-child(5),
+  th:nth-child(7) {
+    width: 11%;
+  }
+
+  th:nth-child(4),
+  th:nth-child(6) {
+    width: 18.5%;
+  }
+}
