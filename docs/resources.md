@@ -4,8 +4,6 @@ title: Resources
 description: Course Resources
 nav_order: 5
 ---
-
-
 # ARM
 
 [ARMv7 Architecture Reference Manual](https://developer.arm.com/documentation/ddi0403/latest/)
@@ -14,24 +12,24 @@ nav_order: 5
 
 [AMBA Advanced Peripheral Bus (APB) Protocol Specification](https://developer.arm.com/documentation/ihi0024/latest/)
 
-
 # STM32
-[STM32 Reference Manual](https://www.st.com/resource/en/reference_manual/dm00310109-stm32l4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
+
+[STM32 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0432-stm32l4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
 
 [STM32 Datasheet](https://www.st.com/resource/en/datasheet/stm32l4r5vi.pdf)
 
-[STM32 IDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+[STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
 
 [STM32 Videos](https://www.youtube.com/playlist?list=PLEBQazB0HUyRYuzfi4clXsKUSgorErmBv)
 
 [Nucleo-144 User Manual](https://www.st.com/resource/en/user_manual/um2179-stm32-nucleo144-boards-mb1312-stmicroelectronics.pdf)
 
-[Nucleo Board Pinout](https://os.mbed.com/platforms/NUCLEO-L4R5ZI/)
-
 [Nucleo Development Board Website](https://www.st.com/en/evaluation-tools/nucleo-l4r5zi-p.html)
 
-
 # Textbooks
+
 EE 186 does not have an official textbook, but the following are very useful references:
 
 * The Definitive Guide to ARM CORTEX-M3 and CORTEX-M4 Processors. Joseph Yiu (Third Edition)
@@ -39,4 +37,5 @@ EE 186 does not have an official textbook, but the following are very useful ref
 * Introduction to ARM Cortex-M Microntrollers. Jonathan W. Valvano (Fifth Edition)
 
 # Quick Links
+
 [Gradescope](https://www.gradescope.com/courses/1387111){: .btn .btn-blue } [Ed](https://edstem.org/us/courses/105453/){: .btn .btn-green } [Canvas](https://canvas.stanford.edu/courses/231440){: .btn .btn-orange}
