@@ -56,4 +56,3 @@ Lab and homework releases and due dates for weeks 2-7. All deadlines are also li
 | (10/26-10/30)       | Due     |  | **Midterm** |  |    HW 4    |  |
 | Week 7              | Release |  |                  |  |            |  |
 | (11/2-11/6)         | Due     |  |       Lab 4       |  |            |  |
-| {: .compact-table } |         |  |                  |  |            |  |
