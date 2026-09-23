@@ -13,7 +13,7 @@ nav_order: 3
 
 | Week           | Topic                                                                            | Links                                      | Assignments |
 | :------------- | :------------------------------------------------------------------------------- | :----------------------------------------- | :---------- |
-| 1 (Sept. 22nd) | Introduction, overview, and architecture                                         | [Slides](assets/slides/Lecture1.pdf) |             |
+| 1 (Sept. 22nd) | Introduction, overview, and architecture                                         | [Slides](../../assets/slides/Lecture1.pdf) |             |
 | 1 (Sept. 24th) | Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) |                                            |             |
 | 2 (Sept. 29th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO                   |                                            | HW 1 Due    |
 | 2 (Oct. 1st)   | Interrupts                                                                       |                                            |             |
