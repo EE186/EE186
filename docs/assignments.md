@@ -8,10 +8,10 @@ nav_order: 4
 
 Please submit assignments by the specified due dates.
 
-* [Lab 1: Hello, World!]({{ '/assets/labs/EE186_Lab_1.pdf' | relative_url }}) (Due: 10/6)
-* [Lab 2: Sorry to Interrupt!]({{ '/assets/labs/EE186_Lab_2.pdf' | relative_url }}) (Due: 10/13)
-* [Lab 3: I²C You!]({{ '/assets/labs/EE186_Lab_3.pdf' | relative_url }}) (Due: 10/22)
-* [Lab 4: Bit by Bit, Hertz by Hertz]({{ '/assets/labs/EE186_Lab_4.pdf' | relative_url }}) (Due: 11/3)
+* Lab 1: Hello, World! (Due: 10/6)
+* Lab 2: Sorry to Interrupt! (Due: 10/13)
+* Lab 3: I²C You! (Due: 10/22)
+* Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/3)
 
 ## Final Project
 
