@@ -42,9 +42,9 @@ Lab and homework releases and due dates for weeks 2-7. All deadlines are also li
 
 |               |         | M |         T         | W |     Th     | F |
 | :------------ | :------ | :-: | :---------------: | :-: | :---------: | :-: |
-| Week 1        | Release |  |                  |  | HW 1, Lab 1 |  |
+| Week 1        | Release |  |                  |  | HW 1,  |  |
 | (9/21-9/25)   | Due     |  |                  |  |            |  |
-| Week 2        | Release |  |                  |  | HW 2, Lab 2 |  |
+| Week 2        | Release |  |      Lab 1            |  | HW 2, Lab 2 |  |
 | (9/28-10/2)   | Due     |  |       HW 1       |  |            |  |
 | Week 3        | Release |  |                  |  | HW 3, Lab 3 |  |
 | (10/5-10/9)   | Due     |  |       Lab 1       |  |    HW 2    |  |
@@ -53,6 +53,6 @@ Lab and homework releases and due dates for weeks 2-7. All deadlines are also li
 | Week 5        | Release |  |                  |  |            |  |
 | (10/19-10/23) | Due     |  |                  |  |    Lab 3    |  |
 | Week 6        | Release |  |                  |  |            |  |
-| (10/26-10/30) | Due     |  | **Midterm** |  |    HW 4    |  |
+| (10/26-10/30) | Due     |  |  |  |   **Midterm**    |  |
 | Week 7        | Release |  |                  |  |            |  |
-| (11/2-11/6)   | Due     |  |       Lab 4       |  |            |  |
+| (11/2-11/6)   | Due     |  |      HW 4, Lab 4       |  |            |  |
