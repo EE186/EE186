@@ -6,7 +6,7 @@ nav_order: 4
 ---
 # Assignments
 
-Please submit assignments by 10:00 PM on the specified due dates.
+Please submit assignments by the specified due dates.
 
 * Lab 1: Hello, World! (Due: 10/6)
 * Lab 2: Sorry to Interrupt! (Due: 10/13)
@@ -20,14 +20,13 @@ Final project details will be posted later
 ### Submission Guidelines
 
 - All assignments must be submitted electronically on [Gradescope](https://www.gradescope.com/courses/1387111).
-- All assignments are due at 10:00 PM on the listed due date.
 - Include source code and any required deliverables (e.g. video).
 - Late submissions will be penalized according to course policy.
 - Contact the instructor for any questions or clarifications.
 
 ## Midterm Exam
 
-The midterm is on October 29th from 12-1:20 PM in-person during class time. Students are allowed to bring one sheet of notes.
+The midterm is on October 27th from 12-1:20 PM in-person during class time. Students are allowed to bring one sheet of notes.
 
 ---
 
