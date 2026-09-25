@@ -11,11 +11,7 @@ Please submit assignments by the specified due dates.
 * Lab 1: Hello, World! (Due: 10/6)
 * Lab 2: Sorry to Interrupt! (Due: 10/13)
 * Lab 3: I²C You! (Due: 10/22)
-* Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/3)
-
-## Final Project
-
-Final project details will be posted later
+* Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/3)Final ProjectFinal project details will be posted later
 
 ### Submission Guidelines
 
@@ -26,7 +22,7 @@ Final project details will be posted later
 
 ## Midterm Exam
 
-The midterm is on October 27th from 12-1:20 PM in-person during class time. Students are allowed to bring one sheet of notes.
+The midterm is on October 29th from 12-1:20 PM in-person during class time. Students are allowed to bring one sheet of notes
 
 ---
 
