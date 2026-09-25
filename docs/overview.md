@@ -16,15 +16,17 @@ This course introduces embedded systems and provides a comprehensive understandi
 
   - Belle Angkanapiwat (yanisa [at] stanford.edu)
   - Lan Mei (lanmei [at] stanford.edu)
+  - Anna Guo (annaguo [at] stanford.edu)
 - **Technology Resource:** Pete Mahowald (pmahowld [at] stanford.edu)
-- **Lectures:** Tue Thu 12:00PM - 1:20PM, 540-108
-- **Section:** TBD
+- **Lectures:** Tue Thu 12:00PM - 1:20PM
+- **Section:** Fri 3-4 PM at Packard 058
 - **Office Hours:**
 
-  - Zerina: TBD
-  - Belle: TBD
-  - Lan: TBD
-  - Pete: TBD
+  - Zerina: Thurs 2-3 PM at Packard 266
+  - Belle: Wed 3-4 PM at Packard 058
+  - Lan: Tues 3:30-4:30 PM at Packard 058
+  - Anna: Fri 4-5 PM at Packard 058
+  - Pete: Thurs 3:30-4:30 PM at Packard 058
 
 ## Grading
 
@@ -45,7 +47,7 @@ Students must submitted all assignments through Gradescope by the posted deadlin
 * <24 hours: - 10%
 * <48 hours: - 30%
 * <72 hours: - 60%
-* <72 hours: not accepted
+* \>72 hours: not accepted
 
 If students have any concerns about the deadlines due to extenuating circumstances, please reach out to course staff **before the deadline**.
 
