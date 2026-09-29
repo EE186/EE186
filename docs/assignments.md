@@ -11,7 +11,8 @@ Please submit assignments by the specified due dates.
 * Lab 1: Hello, World! (Due: 10/6)
 * Lab 2: Sorry to Interrupt! (Due: 10/13)
 * Lab 3: I²C You! (Due: 10/22)
-* Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/3)Final ProjectFinal project details will be posted later
+* Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/10)
+
 
 ### Submission Guidelines
 
@@ -23,6 +24,16 @@ Please submit assignments by the specified due dates.
 ## Midterm Exam
 
 The midterm is on October 29th from 12-1:20 PM in-person during class time. Students are allowed to bring one sheet of notes
+
+## Final Project
+
+- Project Idea Submissions Due Date: October 13th, 2026
+- Project Selection and Team Formation: October 15th, 2026
+- Project Advising Period: Once you have formed a team, schedule a meeting with the teaching staff to discuss your project and ensure that it meets all requirements. Advising will take place during Week 5.
+- Final Proposal Submission: October 27th, 2026
+- Poster Session and Demo: December 11th, 2026
+
+More details will be posted later. Stay tuned!
 
 ---
 

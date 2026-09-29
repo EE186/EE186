@@ -19,15 +19,15 @@ nav_order: 3
 | 2 (Oct. 1st)   | Interrupts                                                                       |                                           |             |
 | 3 (Oct. 6th)   | Interrupts                                                                       |                                           | Lab 1 Due   |
 | 3 (Oct. 8th)   | Timers, Pulse Width Modulation                                                   |                                           | HW 2 Due    |
-| 4 (Oct. 13th)  | UART, SPI, I2C                                                                   |                                           | Lab 2 Due   |
+| 4 (Oct. 13th)  | UART, SPI, I2C                                                                   |                                           | Lab 2, Project idea submission Due   |
 | 4 (Oct. 15th)  | Project Selection                                                                |                                           | HW 3 Due    |
 | 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |             |
 | 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | Lab 3 Due   |
-| 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |             |
-| 6 (Oct. 29th)  | Midterm                                                                          |                                           | HW 4 Due    |
-| 7 (Nov. 3rd)   | No Class. Democracy Day.                                                         |                                           | Lab 4 Due   |
+| 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Final project proposal Due           |
+| 6 (Oct. 29th)  | Midterm                                                                          |                                           |     |
+| 7 (Nov. 3rd)   | No Class. Democracy Day.                                                         |                                           |    |
 | 7 (Nov. 5th)   | DACs / Wireless Communication                                                    |                                           |             |
-| 8 (Nov. 10th)  | System Timer, Direct Memory Access (DMA)                    |                                           |             |
+| 8 (Nov. 10th)  | System Timer, Direct Memory Access (DMA)                    |                                           |             | HW 4, Lab 4 Due
 | 8 (Nov. 12th)  | Printed Circuit Board (PCB) Design, Final Project Discussions                    |                                           |             |
 | 9 (Nov. 17th)  | Special Topics: Wireless Embedded Systems Research                               |                                           |             |
 | 9 (Nov. 19th)  | No Class. Work on final projects                                                 |                                           |             |
