@@ -27,7 +27,7 @@ nav_order: 3
 | 6 (Oct. 29th)  | Midterm                                                                          |                                           | HW 4 Due    |
 | 7 (Nov. 3rd)   | No Class. Democracy Day.                                                         |                                           | Lab 4 Due   |
 | 7 (Nov. 5th)   | DACs / Wireless Communication                                                    |                                           |             |
-| 8 (Nov. 10th)  | Midterm Solutions Review, System Timer, Direct Memory Access                     |                                           |             |
+| 8 (Nov. 10th)  | System Timer, Direct Memory Access (DMA)                    |                                           |             |
 | 8 (Nov. 12th)  | Printed Circuit Board (PCB) Design, Final Project Discussions                    |                                           |             |
 | 9 (Nov. 17th)  | Special Topics: Wireless Embedded Systems Research                               |                                           |             |
 | 9 (Nov. 19th)  | No Class. Work on final projects                                                 |                                           |             |
@@ -40,24 +40,34 @@ nav_order: 3
 
 ### Assignment Calendar
 
-Lab and homework releases and due dates for weeks 2-7. All deadlines are also listed in the schedule above.
+Lab and homework releases and due dates are subject to change. Refer to Gradescope due dates and Canvas announcements.
 
 |               |         | M |      T      | W |        Th        | F |
 | :------------ | :------ | :-: | :---------: | :-: | :---------------: | :-: |
-| Week 1        | Release |  |            |  |       HW 1,       |  |
+| Week 1        | Release |  |            |  |       HW 1       |  |
 | (9/21-9/25)   | Due     |  |            |  |                  |  |
 | Week 2        | Release |  |    Lab 1    |  |    HW 2, Lab 2    |  |
 | (9/28-10/2)   | Due     |  |    HW 1    |  |                  |  |
 | Week 3        | Release |  |            |  |    HW 3, Lab 3    |  |
 | (10/5-10/9)   | Due     |  |    Lab 1    |  |       HW 2       |  |
 | Week 4        | Release |  |            |  |    HW 4, Lab 4    |  |
-| (10/12-10/16) | Due     |  |    Lab 2    |  |       HW 3       |  |
-| Week 5        | Release |  |            |  |                  |  |
-| (10/19-10/23) | Due     |  |            |  |       Lab 3       |  |
+| (10/12-10/16) | Due     |  |    Lab 2, Project idea submission    |  |       HW 3       |  |
+| Week 5        | Release |  |            |  |     HW 4, Lab 4   |  |
+| (10/19-10/23) | Due     |  |            |  |       Lab 3       | **Lab 1-2 Oral Quiz** |
 | Week 6        | Release |  |            |  |                  |  |
-| (10/26-10/30) | Due     |  |            |  | **Midterm**, HW 4 |  |
+| (10/26-10/30) | Due     |  |  Final project proposal          |  | **Midterm**  |  |
 | Week 7        | Release |  |            |  |                  |  |
-| (11/2-11/6)   | Due     |  |  Lab 4 |  |                  |  |
+| (11/2-11/6)   | Due     |  |   HW4, Lab4  |  |                  | **Lab 3-4 Oral Quiz** |
+| Week 8        | Release |  |            |  |                  |  |
+| (11/9-11/13)   | Due     |  |   |  |                  |  |
+| Week 9        | Release |  |            |  |                  |  |
+| (11/16-11/20)   | Due     |  |   |  |                  |  |
+| Week 10       | Release |  |            |  |                  |  |
+| (11/23-11/27)   | Due     |  |   |  |                  |  |
+| Week 11       | Release |  |            |  |                  |  |
+| (11/30-12/4)   | Due     |  |   |  |                  |  |
+| Week 12       | Release |  |            |  |                  |  |
+| (12/7-12/11)   | Due     |  |   |  |   Poster Session               |  |
 
 ### Optional Chapter Readings for Each Lecture
 
