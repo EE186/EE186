@@ -58,3 +58,25 @@ Lab and homework releases and due dates for weeks 2-7. All deadlines are also li
 | (10/26-10/30) | Due     |  |            |  | **Midterm**, HW 4 |  |
 | Week 7        | Release |  |            |  |                  |  |
 | (11/2-11/6)   | Due     |  |  Lab 4 |  |                  |  |
+
+### Optional Chapter Readings for Each Lecture
+
+* **Ch.** refers to Chapters in *Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C*, Yifeng Zhu (Third Edition).
+* **RM0432 Sect.** refers to a section of the [STM32L4 Series Reference Manual (RM0432)](https://www.st.com/resource/en/reference_manual/rm0432-stm32l4-series-advanced-armbased-32bit-mcus-stmicroelectronics.pdf).
+
+| Lecture | Date       | Optional Readings                                                                                          |
+| :------ | :--------- | :--------------------------------------------------------------------------------------------------------- |
+| 1       | Sept. 22nd | Ch. 1.3; Ch. 2.1–2.4; Ch. 3.1                                                                              |
+| 2       | Sept. 24th | Ch. 3; Ch. 4.1, 4.4, 4.6; Ch. 5.1, 5.2, 5.4; Ch. 6.1–6.3                                                   |
+| 3       | Sept. 29th | Ch. 8.1, 8.2, 8.6; Ch. 14.1–14.3, 14.6; Ch. 19.1                                                           |
+| 4       | Oct. 1st   | Ch. 11.1–11.6                                                                                              |
+| 5       | Oct. 6th   | Ch. 11.1–11.6                                                                                              |
+| 6       | Oct. 8th   | Ch. 15; RM0432 Sect. 37 (advanced-control timers, TIM1/TIM8), Sect. 38 (general-purpose timers, TIM2–TIM5) |
+| 7       | Oct. 13th  | RM0432 Sect. 50 (USART/UART), Sect. 51 (LPUART), Sect. 49 (I2C), Sect. 52 (SPI)                            |
+| 8       | Oct. 15th  | —                                                                                                          |
+| 9       | Oct. 20th  | Ch. 20; RM0432 Sect. 21 (ADC)                                                                              |
+| 10      | Oct. 22nd  | —                                                                                                          |
+| 11      | Oct. 27th  | —                                                                                                          |
+| 12      | Oct. 29th  | —                                                                                                          |
+| 13      | Nov. 3rd   | —                                                                                                          |
+| 14      | Nov. 5th   | Ch. 21; RM0432 Sect. 22 (DAC)                                                                              |
