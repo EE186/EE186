@@ -81,3 +81,16 @@ a {
     width: 18.5%;
   }
 }
+
+// Two extra solid button colours for the Quick Links row. just-the-docs ships only
+// blue / green / purple / primary, and `.btn-orange` was referenced in the markdown
+// without ever being defined, so it rendered as a plain grey button.
+$orange-100: #d9660a;
+
+.btn-orange {
+  @include btn-color($white, $orange-100);
+}
+
+.btn-red {
+  @include btn-color($white, $red-300);
+}

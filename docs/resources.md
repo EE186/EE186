@@ -38,4 +38,4 @@ EE 186 does not have an official textbook, but the following are very useful ref
 
 # Quick Links
 
-[Gradescope](https://www.gradescope.com/courses/1387111){: .btn .btn-blue } [Ed](https://edstem.org/us/courses/105453/){: .btn .btn-green } [Canvas](https://canvas.stanford.edu/courses/231440){: .btn .btn-orange}
+[Gradescope](https://www.gradescope.com/courses/1387111){: .btn .btn-blue } [Ed](https://edstem.org/us/courses/105453/){: .btn .btn-green } [Canvas](https://canvas.stanford.edu/courses/231440){: .btn .btn-purple } [Google Drive (Lecture Files)](https://drive.google.com/drive/folders/1Y4pivF9kJYisE1K3zExEtMTYn3A6Uqmn){: .btn .btn-orange } [Lab Section Recordings](https://canvas.stanford.edu/courses/231440/external_tools/69960){: .btn .btn-red}
