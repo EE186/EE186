@@ -34,6 +34,14 @@ nav_order: 6
 </div> </div>
 <br>
 
+<div style="display:flex; align-items:center; gap: 1rem;"> <img src="{{ '/assets/images/anna.jpg' | relative_url }}" alt="Portrait of Zerina Kapetanovic" width="120" height="120" style="border-radius:50%; object-fit:cover;"> <div> <div style="font-weight:600;">Anna Guo</div> 
+<div>Graduate Student</div> 
+<div>Department of Electrical Engineering</div> 
+<div>annaguo/at/stanford/.edu</div>
+
+</div> </div>
+<br>
+
 # Technology Resource
 
 <br>
