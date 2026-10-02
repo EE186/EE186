@@ -18,16 +18,16 @@ nav_order: 3
 | 2 (Sept. 29th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO                   | [Slides (redacted)](../../assets/slides/Lecture3.pdf)                                         | HW 1 Due    |
 | 2 (Oct. 1st)   | Interrupts                                                                       |                                           |             |
 | 3 (Oct. 6th)   | Interrupts                                                                       |                                           | Lab 1 Due   |
-| 3 (Oct. 8th)   | Timers, Pulse Width Modulation                                                   |                                           | HW 2 Due    |
-| 4 (Oct. 13th)  | UART, SPI, I2C                                                                   |                                           | Lab 2, Project idea submission Due   |
-| 4 (Oct. 15th)  | Project Selection                                                                |                                           | HW 3 Due    |
-| 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |             |
+| 3 (Oct. 8th)   | Timers, Pulse Width Modulation                                                   |                                           |     |
+| 4 (Oct. 13th)  | UART, SPI, I2C                                                                   |                                           | HW 2 Due, Project idea submission Due   |
+| 4 (Oct. 15th)  | Project Selection                                                                |                                           | Lab 2 Due    |
+| 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |  HW 3 Due           |
 | 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | Lab 3 Due   |
 | 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Final project proposal Due           |
 | 6 (Oct. 29th)  | Midterm                                                                          |                                           |     |
 | 7 (Nov. 3rd)   | No Class. Democracy Day.                                                         |                                           |    |
 | 7 (Nov. 5th)   | DACs / Wireless Communication                                                    |                                           |             |
-| 8 (Nov. 10th)  | System Timer, Direct Memory Access (DMA)                    |                                           |             | HW 4, Lab 4 Due
+| 8 (Nov. 10th)  | System Timer, Direct Memory Access (DMA)                    |              |    HW 4, Lab 4 Due         | 
 | 8 (Nov. 12th)  | Printed Circuit Board (PCB) Design, Final Project Discussions                    |                                           |             |
 | 9 (Nov. 17th)  | Special Topics: Wireless Embedded Systems Research                               |                                           |             |
 | 9 (Nov. 19th)  | No Class. Work on final projects                                                 |                                           |             |
@@ -49,25 +49,25 @@ Lab and homework releases and due dates are subject to change. Refer to Gradesco
 | Week 2        | Release |  |    Lab 1    |  |    HW 2, Lab 2    |  |
 | (9/28-10/2)   | Due     |  |    HW 1    |  |                  |  |
 | Week 3        | Release |  |            |  |    HW 3, Lab 3    |  |
-| (10/5-10/9)   | Due     |  |    Lab 1    |  |       HW 2       |  |
+| (10/5-10/9)   | Due     |  |    Lab 1    |  |              |  |
 | Week 4        | Release |  |            |  |    HW 4, Lab 4    |  |
-| (10/12-10/16) | Due     |  |    Lab 2, Project idea submission    |  |       HW 3       |  |
+| (10/12-10/16) | Due     |  |    HW 2, Project idea submission    |  |      Lab 2       |  |
 | Week 5        | Release |  |            |  |     HW 4, Lab 4   |  |
-| (10/19-10/23) | Due     |  |            |  |       Lab 3       | **Lab 1-2 Oral Quiz** |
+| (10/19-10/23) | Due     |  |    HW 3        |  |       Lab 3       | **Lab 1-2 Oral Quiz** |
 | Week 6        | Release |  |            |  |                  |  |
 | (10/26-10/30) | Due     |  |  Final project proposal          |  | **Midterm**  |  |
 | Week 7        | Release |  |            |  |                  |  |
-| (11/2-11/6)   | Due     |  |   HW4, Lab4  |  |                  | **Lab 3-4 Oral Quiz** |
+| (11/2-11/6)   | Due     |  |     |  |                  |  |
 | Week 8        | Release |  |            |  |                  |  |
-| (11/9-11/13)   | Due     |  |   |  |                  |  |
-| Week 9        | Release |  |            |  |                  |  |
+| (11/9-11/13)   | Due     |  | HW4, Lab4  |  |                  | **Lab 3 Oral Quiz** |
+| Week 9        | Release |  |            |  |                  | **Lab 4 Oral Quiz** |
 | (11/16-11/20)   | Due     |  |   |  |                  |  |
 | Week 10       | Release |  |            |  |                  |  |
 | (11/23-11/27)   | Due     |  |   |  |                  |  |
 | Week 11       | Release |  |            |  |                  |  |
 | (11/30-12/4)   | Due     |  |   |  |                  |  |
 | Week 12       | Release |  |            |  |                  |  |
-| (12/7-12/11)   | Due     |  |   |  |   Poster Session               |  |
+| (12/7-12/11)   | Due     |  |   |  |                 |  Poster Session |
 
 ### Optional Chapter Readings for Each Lecture
 
