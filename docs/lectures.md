@@ -15,12 +15,12 @@ nav_order: 3
 | :------------- | :------------------------------------------------------------------------------- | :---------------------------------------- | :---------- |
 | 1 (Sept. 22nd) | Introduction, overview, and architecture                                         | [Slides](../../assets/slides/Lecture1.pdf) |             |
 | 1 (Sept. 24th) | Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [Slides](../../assets/slides/Lecture2.pdf) |             |
-| 2 (Sept. 29th) | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO                   | [Slides](../../assets/slides/Lecture3.pdf)                                         | HW 1 Due    |
-| 2 (Oct. 1st)   | Interrupts                                                                       | [Slides (redacted)](../../assets/slides/Lecture4.pdf) |             |
-| 3 (Oct. 6th)   | Interrupts                                                                       |                                           | Lab 1 Due   |
-| 3 (Oct. 8th)   | Timers, Pulse Width Modulation                                                   |                                           |     |
-| 4 (Oct. 13th)  | UART, SPI, I2C                                                                   |                                           | HW 2 Due, Project idea submission Due   |
-| 4 (Oct. 15th)  | Project Selection                                                                |                                           | Lab 2 Due    |
+| 2 (Sept. 29th) | Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) (continued)                  |                                          | HW 1 Due    |
+| 2 (Oct. 1st)   | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO     | [Slides](../../assets/slides/Lecture3.pdf) |             |
+| 3 (Oct. 6th)   | Interrupts                                                    |  [Slides (redacted)](../../assets/slides/Lecture4.pdf)                                         | Lab 1 Due   |
+| 3 (Oct. 8th)   | Interrupts (continued)                                                    |                                           |     |
+| 4 (Oct. 13th)  | Timers, Pulse Width Modulation        |   [Slides](../../assets/slides/Lecture5.pdf)                                        | Project idea submission Due, HW 2 Due on Wed    |
+| 4 (Oct. 15th)  | UART, SPI, I2C and Project Selection                                                                |                                           | Lab 2 Due on Fri    |
 | 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |  HW 3 Due           |
 | 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | Lab 3 Due   |
 | 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Final project proposal Due           |
@@ -51,7 +51,7 @@ Lab and homework releases and due dates are subject to change. Refer to Gradesco
 | Week 3        | Release |  |            |  |    HW 3, Lab 3    |  |
 | (10/5-10/9)   | Due     |  |    Lab 1    |  |              |  |
 | Week 4        | Release |  |            |  |    HW 4, Lab 4    |  |
-| (10/12-10/16) | Due     |  |    HW 2, Project idea submission    |  |      Lab 2       |  |
+| (10/12-10/16) | Due     |  |    Project idea submission    | HW 2 |             | Lab 2 |
 | Week 5        | Release |  |            |  |     HW 4, Lab 4   |  |
 | (10/19-10/23) | Due     |  |    HW 3        |  |       Lab 3       | **Lab 1-2 Oral Quiz** |
 | Week 6        | Release |  |            |  |                  |  |
