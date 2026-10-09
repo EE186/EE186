@@ -31,3 +31,8 @@ node_modules
 Gemfile.lock
 vendor/
 .bundle/
+
+# Local STM32CubeIDE lab projects -- not website content.
+# These live alongside the site on Lan's machine; keep them out of the repo.
+ee186_lab3/
+ee186_lab3_sec5/

@@ -8,10 +8,15 @@ nav_order: 4
 
 Please submit assignments by the specified due dates.
 
-* Lab 1: Hello, World! (Due: 10/6)
-* Lab 2: Sorry to Interrupt! (Due: 10/13)
+* [Lab 1: Hello, World!]({{ '/assets/labs/EE186_Lab_1.pdf' | relative_url }}) (Due: 10/6)
+* [Lab 2: Sorry to Interrupt!]({{ '/assets/labs/EE186_Lab_2.pdf' | relative_url }}) (Due: 10/16)
 * Lab 3: I²C You! (Due: 10/22)
 * Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/10)
+
+## Homework
+
+* [HW 1]({{ '/assets/labs/EE186_HW_1.pdf' | relative_url }}) (Due: 9/29)
+* [HW 2]({{ '/assets/labs/EE186_HW_2.pdf' | relative_url }}) (Due: 10/14)
 
 
 ### Submission Guidelines
@@ -33,7 +38,7 @@ The midterm is on October 29th from 12-1:20 PM in-person during class time. Stud
 - Final Proposal Submission: October 27th, 2026
 - Poster Session and Demo: December 11th, 2026
 
-More details will be posted later. Stay tuned!
+Full details are in the [Final Project Guidelines]({{ '/assets/labs/EE186_FinalProject_Guidelines.pdf' | relative_url }}).
 
 ---
 
