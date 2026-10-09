@@ -17,7 +17,7 @@ nav_order: 3
 | 1 (Sept. 24th) | Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) | [Slides](../../assets/slides/Lecture2.pdf) |             |
 | 2 (Sept. 29th) | Instruction Set Architecture (ISA), Assembly, Application Binary Interface (ABI) (continued)                  |                                          | HW 1 Due    |
 | 2 (Oct. 1st)   | Memory Mapped I/O (MMIO), Advanced Peripheral Bus, MMIO + GPIO     | [Slides](../../assets/slides/Lecture3.pdf) |             |
-| 3 (Oct. 6th)   | Interrupts                                                    |  [Slides (redacted)](../../assets/slides/Lecture4.pdf)                                         | Lab 1 Due   |
+| 3 (Oct. 6th)   | Interrupts                                                    |  [Slides](../../assets/slides/Lecture4.pdf)                                         | Lab 1 Due   |
 | 3 (Oct. 8th)   | Interrupts (continued)                                                    |                                           |     |
 | 4 (Oct. 13th)  | Timers, Pulse Width Modulation        |   [Slides](../../assets/slides/Lecture5.pdf)                                        | Project idea submission Due, HW 2 Due on Wed    |
 | 4 (Oct. 15th)  | UART, SPI, I2C and Project Selection                                                                |                                           | Lab 2 Due on Fri    |
