@@ -20,7 +20,7 @@ nav_order: 3
 | 3 (Oct. 6th)   | Interrupts                                                    |  [Slides](../../assets/slides/Lecture4.pdf)                                         | Lab 1 Due   |
 | 3 (Oct. 8th)   | Interrupts (continued)                                                    |                                           |     |
 | 4 (Oct. 13th)  | Timers, Pulse Width Modulation        |   [Slides](../../assets/slides/Lecture5.pdf)                                        | Project idea submission Due, HW 2 Due on Wed    |
-| 4 (Oct. 15th)  | UART, SPI, I2C and Project Selection                                                                |                                           | Lab 2 Due on Fri    |
+| 4 (Oct. 15th)  | UART, SPI, I2C and Project Selection                                                                | [Slides](../../assets/slides/Lecture6.pdf) | Lab 2 Due on Fri    |
 | 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |  HW 3 Due           |
 | 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | Lab 3 Due   |
 | 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Final project proposal Due           |
