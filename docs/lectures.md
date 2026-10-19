@@ -21,9 +21,9 @@ nav_order: 3
 | 3 (Oct. 8th)   | Interrupts (continued)                                                    |                                           |     |
 | 4 (Oct. 13th)  | Timers, Pulse Width Modulation        |   [Slides](../../assets/slides/Lecture5.pdf)                                        | Project idea submission Due, HW 2 Due on Wed    |
 | 4 (Oct. 15th)  | UART, SPI, I2C and Project Selection                                                                | [Slides](../../assets/slides/Lecture6.pdf) | Lab 2 Due on Fri    |
-| 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |  HW 3 Due           |
-| 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | Lab 3 Due   |
-| 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Final project proposal Due           |
+| 5 (Oct. 20th)  | Analog Signals                                                                   |                                           |            |
+| 5 (Oct. 22nd)  | Midterm Review                                                                   |                                           | HW 3 Due   |
+| 6 (Oct. 27th)  | No Class. Study for midterm                                                      |                                           |  Lab 3 Due, Final project proposal Due           |
 | 6 (Oct. 29th)  | Midterm                                                                          |                                           |     |
 | 7 (Nov. 3rd)   | No Class. Democracy Day.                                                         |                                           |    |
 | 7 (Nov. 5th)   | DACs / Wireless Communication                                                    |                                           |             |
@@ -48,14 +48,14 @@ Lab and homework releases and due dates are subject to change. Refer to Gradesco
 | (9/21-9/25)   | Due     |  |            |  |                  |  |
 | Week 2        | Release |  |    Lab 1    |  |    HW 2, Lab 2    |  |
 | (9/28-10/2)   | Due     |  |    HW 1    |  |                  |  |
-| Week 3        | Release |  |            |  |    HW 3, Lab 3    |  |
+| Week 3        | Release |  |            |  |        |  |
 | (10/5-10/9)   | Due     |  |    Lab 1    |  |              |  |
-| Week 4        | Release |  |            |  |    HW 4, Lab 4    |  |
+| Week 4        | Release |  |    HW 3, Lab 3        |  |        |  |
 | (10/12-10/16) | Due     |  |    Project idea submission    | HW 2 |             | Lab 2 |
-| Week 5        | Release |  |            |  |     HW 4, Lab 4   |  |
-| (10/19-10/23) | Due     |  |    HW 3        |  |       Lab 3       | **Lab 1-2 Oral Quiz** |
-| Week 6        | Release |  |            |  |                  |  |
-| (10/26-10/30) | Due     |  |  Final project proposal          |  | **Midterm**  |  |
+| Week 5        | Release |  |            |  |       |  |
+| (10/19-10/23) | Due     |  |            |  |      HW 3       | **Lab 1-2 Oral Quiz** |
+| Week 6        | Release |  |            |  |    HW 4, Lab 4              |  |
+| (10/26-10/30) | Due     |  |  Lab 3, Final project proposal          |  | **Midterm**  |  |
 | Week 7        | Release |  |            |  |                  |  |
 | (11/2-11/6)   | Due     |  |     |  |                  |  |
 | Week 8        | Release |  |            |  |                  |  |

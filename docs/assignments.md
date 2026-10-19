@@ -8,15 +8,16 @@ nav_order: 4
 
 Please submit assignments by the specified due dates.
 
-* [Lab 1: Hello, World!]({{ '/assets/labs/EE186_Lab_1.pdf' | relative_url }}) (Due: 10/6)
+* [Lab 1: Hello, World!]({{ '/assets/labs/EE186_Lab_1.pdf' | relative_url }}) (Due: 10/7)
 * [Lab 2: Sorry to Interrupt!]({{ '/assets/labs/EE186_Lab_2.pdf' | relative_url }}) (Due: 10/16)
-* Lab 3: I²C You! (Due: 10/22)
+* Lab 3: I²C You! (Due: 10/27)
 * Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/10)
 
 ## Homework
 
 * [HW 1]({{ '/assets/labs/EE186_HW_1.pdf' | relative_url }}) (Due: 9/29)
 * [HW 2]({{ '/assets/labs/EE186_HW_2.pdf' | relative_url }}) (Due: 10/14)
+* [HW 3]({{ '/assets/labs/EE186_HW3.pdf' | relative_url }}) (Due: 10/22)
 
 
 ### Submission Guidelines
