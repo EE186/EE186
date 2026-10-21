@@ -10,7 +10,7 @@ Please submit assignments by the specified due dates.
 
 * [Lab 1: Hello, World!]({{ '/assets/labs/EE186_Lab_1.pdf' | relative_url }}) (Due: 10/7)
 * [Lab 2: Sorry to Interrupt!]({{ '/assets/labs/EE186_Lab_2.pdf' | relative_url }}) (Due: 10/16)
-* Lab 3: I²C You! (Due: 10/27)
+* [Lab 3: I²C You!]({{ '/assets/labs/EE186_Lab_3.pdf' | relative_url }}) (Due: 10/27)
 * Lab 4: Bit by Bit, Hertz by Hertz (Due: 11/10)
 
 ## Homework
